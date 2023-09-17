@@ -17,7 +17,7 @@ for(i=1;i<=m;i++)
         nn=n; 
         loop:
              u++;
-             V--;
+             v--;
              nn--;
         if(i==u||j==u||i==v||j==v)
           printf("%2d",nn);
